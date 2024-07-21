@@ -2,6 +2,7 @@
 An MPT implementation of Kiyomi Sato, an OC used in DDLC mods.
 
 Version 1.0 - Initial Release
+Version 1.1 - Added dress sprite, changed "peace" to "lpeace"
 
 Credits:
 
@@ -9,4 +10,4 @@ Credits:
     - Some Used Assets By u/yagamirai10                     https://www.reddit.com/user/yagamirai10/
     - Original Sprites By u/StormBlazed76                   https://www.reddit.com/user/StormBlazed76/
     
-[kiyomi-v1.0.zip](https://github.com/user-attachments/files/16322815/kiyomi-v1.0.zip)
+[kiyomi_v1.1.zip](https://github.com/user-attachments/files/16322897/kiyomi_v1.1.zip)
